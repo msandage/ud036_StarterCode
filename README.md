@@ -7,8 +7,8 @@ Code used to generate a movie trailer website with movies of the user's choosing
 
 
 ## Use and customization
-To use the movie trailer program, run entertainment_center.py. 
-To change or add additional movies... 
+To use the movie trailer program, boot python IDLE and run entertainment_center.py.
+To change or add additional movies...
 1) Edit entertainment_center and create new movie objects using the Movie class. Define the arguments as the movie title, movie storyline, cover art URL, and trailer URL
 2) Arrange the movie list you want in an array under the pre-existing variable `movies` in the order you wish them to appear
 
